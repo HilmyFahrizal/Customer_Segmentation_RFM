@@ -80,6 +80,7 @@ Key visualizations include:
 - Elbow, Silhouette, and DBI plots
 - RFM distribution per cluster
 - Cluster profile comparisons (mean & median)
+- 3D Scatter Plot
 
 ---
 
