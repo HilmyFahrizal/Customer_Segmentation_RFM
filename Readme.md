@@ -79,7 +79,6 @@ Key visualizations include:
 
 - Elbow, Silhouette, and DBI plots
 - RFM distribution per cluster
-- PCA 2D and 3D cluster visualization
 - Cluster profile comparisons (mean & median)
 
 ---
