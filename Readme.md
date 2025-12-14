@@ -103,10 +103,14 @@ cd CustomerSegmentationRFMClustering
 ```
 
 ### 2 Install Library requirments
-- on terminal -> pip install -r requirements.txt
+```bash
+pip install -r requirements.txt
+```
 
 ### 2 Run IPYNB File
 - go to Notebooks Folder and Run All file Code_Capstone_RFM.ipynb
 
 ### 3. Run Streamlit
-- on terminal -> streamlit run Streamlit/CapstoneRFM_Deploy.py
+```bash
+streamlit run Streamlit/CapstoneRFM_Deploy.py
+```
