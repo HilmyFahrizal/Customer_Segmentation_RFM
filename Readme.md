@@ -79,15 +79,15 @@ Key visualizations include:
 
 - Elbow, Silhouette, and DBI plots
 - RFM distribution per cluster
-- PCA 2D and 3D cluster visualization
 - Cluster profile comparisons (mean & median)
+- 3D Scatter Plot
 
 ---
 
 ## 🌐 Live Application
 
-- **Web App (Streamlit)**:  
-  https://rfmclustering.streamlit.app/
+- **Drive Model**  
+  https://drive.google.com/drive/folders/1YvgyfEoDxDkwrGjYMvzj0Rlgg_PXbjFj?usp=sharing
 
 - **Notebook (Google Colab)**:  
   https://colab.research.google.com/drive/1lBDsIiarQv1Mz87wFf2V_ofKbZvlthGI?usp=sharing
